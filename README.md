@@ -7,7 +7,7 @@ The pdf file "Slides Presentation.pdf" contains the slides of the presentation o
 The pdf file "Slides Presentation Guide.pdf" contains the script of the slides presentation, so that it can be followed and understood easily.
 
 
-*Some previous context:*
+Some previous context:
 
 Hello, I am Cinta Arnau and I am going to analyze the dataset I have been working with regarding multiple linear regression.
 
