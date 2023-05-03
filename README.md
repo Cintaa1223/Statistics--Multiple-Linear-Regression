@@ -1,10 +1,10 @@
 # Statistics--Multiple-Linear-Regression
 This is a university project where we create a multiple linear regression model to analyze a League of Legends dataset.
 
-The file "Linear Regression Model.mlx" contains the Matlab file with the code of the Linear Regression Model created and all the plots and tests conducted to analyze the dataset.
-The dataset used for the model is the one found in "datafile.mat".
-The pdf file "Slides Presentation.pdf" contains the slides of the presentation of the lab (explanation of the game and dataset, regressors and response, and plots and test).
-The pdf file "Slides Presentation Guide.pdf" contains the script of the slides presentation, so that it can be followed and understood easily.
+- The file "Linear Regression Model.mlx" contains the Matlab file with the code of the Linear Regression Model created and all the plots and tests conducted to analyze the dataset.
+- The dataset used for the model is the one found in "datafile.mat".
+- The pdf file "Slides Presentation.pdf" contains the slides of the presentation of the lab (explanation of the game and dataset, regressors and response, and plots and test).
+- The pdf file "Slides Presentation Guide.pdf" contains the script of the slides presentation, so that it can be followed and understood easily.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
