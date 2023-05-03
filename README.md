@@ -6,7 +6,9 @@ The dataset used for the model is the one found in "datafile.mat".
 The pdf file "Slides Presentation.pdf" contains the slides of the presentation of the lab (explanation of the game and dataset, regressors and response, and plots and test).
 The pdf file "Slides Presentation Guide.pdf" contains the script of the slides presentation, so that it can be followed and understood easily.
 
-Some previous context:
+
+*Some previous context:*
+
 Hello, I am Cinta Arnau and I am going to analyze the dataset I have been working with regarding multiple linear regression.
 
 First of all, what is this dataset about? It’s about the popular videogame “League of Legends”. 
